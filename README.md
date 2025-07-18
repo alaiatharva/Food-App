@@ -6,6 +6,10 @@ A new Flutter project.
 
 This project is a starting point for a Flutter application.
 
+**#Output**
+<img width="1080" height="2424" alt="Screenshot_1752862967" src="https://github.com/user-attachments/assets/bdfb0e01-7c58-4f56-8374-39366c141ead" />
+<img width="1080" height="2424" alt="Screenshot_1752862959" src="https://github.com/user-attachments/assets/aafe4c6f-3d61-4be0-b323-0bcad1709944" />
+
 A few resources to get you started if this is your first Flutter project:
 
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
